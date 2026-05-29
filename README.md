@@ -1,5 +1,6 @@
 # LLMOps Workshop
 
+> 이 Repository는 [LLMOps 총 12강 강의](https://www.youtube.com/playlist?list=PLy1krxEQqXnC5B0bih8Z2SYHQd7l6yrkE)의 실습입니다.
 > **소형 LLM(Qwen 3.5-2B)을 합성 데이터로 SFT → 평가 → 양자화 → 배포 → Agentic RAG까지** 한 번에 체험하는 한국어 LLMOps 실습 워크샵.
 
 Colab 무료 GPU(T4)에서 끝까지 돌아가도록 설계되어 있고, 각 단계가 **하나의 노트북**으로 독립 실행 가능합니다.
